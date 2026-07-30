@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🌸
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&weight=900&size=25&pause=1000&color=8908F7&center=true&width=450&lines=%F0%9F%8C%BA+Neha+Vardhini+J+K+Portfolio;Python+Backend+Developer%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;FastAPI+%7C+RESTApi+%7C+SQL;Designed+with+React+%24+Tailwind%F0%9F%8C%BC)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Neha+Vardhini+J+K+Portfolio;Python+Backend+Developer;FastAPI+%7C+REST+APIs+%7C+AI+Applications;Designed+with+React+%26+TailwindCSS)](https://git.io/typing-svg)
+<p align="center">
+
+<img src="public/profile.png" width="850"/>
 
 ### Modern Developer Portfolio
 
@@ -20,9 +22,7 @@ A clean, responsive and animated personal portfolio showcasing my projects, tech
 
 # ✨ Preview
 
-<p align="center">
 
-<img src="public/profile.png" width="850"/>
 
 </p>
 
