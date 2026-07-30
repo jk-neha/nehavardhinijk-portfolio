@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="public/profile.png" width="850"/>
+<img src="public/portfoliopic.png" width="850"/>
 
 ### Modern Developer Portfolio
 
@@ -19,12 +19,13 @@ A clean, responsive and animated personal portfolio showcasing my projects, tech
 </div>
 
 ---
+# 📖 About
 
-# ✨ Preview
+This repository contains the source code for my personal developer portfolio.
 
+The portfolio showcases my projects, technical skills, education, professional experience, and backend development journey through a modern and responsive user interface.
 
-
-</p>
+It is designed with smooth animations, clean typography, reusable components, and a scalable React architecture.
 
 ---
 
