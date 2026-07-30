@@ -129,15 +129,41 @@ npm run build
 
 https://nehavardhinijk-portfolio.vercel.app/
 
----
-
 # 📸 Screenshots
 
-> Replace these with your own screenshots.
+## 🏠 Home
 
-| Home | Projects |
-|------|----------|
-| ![](public/profile.png) | ![](public/projects/campus.png) |
+<img src="screenshots/home.png"/>
+
+---
+
+## 💼 Projects
+
+<img src="screenshots/projects.png"/>
+
+---
+
+## 🧠 Skills
+
+<img src="screenshots/skills.png"/>
+
+---
+
+## 🎓 Education
+
+<img src="screenshots/education.png"/>
+
+---
+
+## 💻 Experience
+
+<img src="screenshots/experience.png"/>
+
+---
+
+## 📞 Contact
+
+<img src="screenshots/contact.png"/>
 
 ---
 
