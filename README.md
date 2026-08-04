@@ -12,7 +12,7 @@ A clean, responsive and animated personal portfolio showcasing my projects, tech
 
 <br>
 
-[![Live Website](https://nehavardhinijk-portfolio-3hrl.vercel.app/)
+[![Live Website](https://img.shields.io/badge/Live-Vercel?style=for-the-badge&logo=vercel)](https://nehavardhinijk-portfolio-3hrl.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jk-neha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nehavardhinijk)
 
