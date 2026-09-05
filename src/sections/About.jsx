@@ -32,8 +32,7 @@ export default function About() {
         </motion.h2>
 
         <p className="mt-12 text-zinc-400 text-xl leading-10 max-w-4xl">
-          I'm Neha Vardhini, a Python Backend Developer passionate about
-          REST APIs, FastAPI, AI applications and clean architecture.
+          I'm Neha Vardhini, Building scalable REST APIs and backend systems with Python, FastAPI, PostgreSQL, and clean architecture.
           I enjoy transforming ideas into production-ready software while
           continuously learning modern backend technologies.
         </p>

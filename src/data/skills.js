@@ -99,21 +99,6 @@ level:"Intermediate",
 progress:65
 },
 
-{
-name:"IoT",
-icon:MdDevices,
-color:"#06B6D4",
-level:"Intermediate",
-progress:65
-},
-
-{
-name:"OpenCV",
-icon:SiOpencv,
-color:"#5C3EE8",
-level:"Intermediate",
-progress:60
-}
 
 ];
 

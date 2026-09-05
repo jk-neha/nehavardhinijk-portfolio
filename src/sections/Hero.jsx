@@ -78,9 +78,10 @@ Vardhini JK
 
           <p className="mt-8 max-w-xl text-zinc-400 leading-8">
 
-            Building scalable backend systems,
-            REST APIs and AI powered applications
-            with clean architecture.
+            Building scalable REST APIs and 
+            backend systems with 
+            Python, FastAPI, PostgreSQL, 
+            and clean architecture.
 
           </p>
 
