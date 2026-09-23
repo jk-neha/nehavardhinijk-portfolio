@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Sans&weight=700&size=25&pause=1000&color=8908F7&center=true&width=520&lines=%F0%9F%8C%BA+Neha+Vardhini+J+K+Portfolio;Python+Backend+Developer;FastAPI+%7C+Django+REST+%7C+PostgreSQL;Built+with+React+%2B+Vite)](https://git.io/typing-svg)
 
-<img width="100%" src="public/Photo.png" alt="Neha Vardhini Banner" style="border-radius:16px"/>
+<img width="100%" src="public/image.png" alt="Neha Vardhini Banner" style="border-radius:16px"/>
 
 ### Developer Portfolio
 
